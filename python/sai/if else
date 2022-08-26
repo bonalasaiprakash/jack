@@ -1,0 +1,6 @@
+name = input('enter your name:')
+age =int(input('enter your age:'))
+if age<=18:
+    print(name,'sorry you are not eligible!')
+else:
+    print('hello', 'you are welcome')

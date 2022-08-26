@@ -1,0 +1,6 @@
+a=20;b=30
+if a<b or a<b:
+    print('this is if')
+else:
+    print('else')
+    # atleast one condition is true we must use  or

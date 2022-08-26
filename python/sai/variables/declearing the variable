@@ -1,0 +1,11 @@
+from platform import python_branch
+
+
+a=100
+print(a)
+#################
+#reDeclaration of a variable in python_branch
+f=10
+print(f)
+f="rakesh prakash"
+print (f)

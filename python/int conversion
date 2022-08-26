@@ -1,0 +1,7 @@
+a=('enter any number')
+a=int(455)
+b=('enter any number')
+b=int(564)
+c=a+b
+print(c)
+

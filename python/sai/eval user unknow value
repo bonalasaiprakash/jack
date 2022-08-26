@@ -1,0 +1,2 @@
+x= eval (input('enter your percentage'))
+print('X')
